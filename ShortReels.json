@@ -28,6 +28,13 @@
     "allowOffline": true
   },
   {
+    "id": "8fc18c5bf7e79c65",
+    "username": "6285166856784",
+    "password": "shortreels",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
